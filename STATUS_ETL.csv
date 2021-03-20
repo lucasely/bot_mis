@@ -2,7 +2,6 @@ TABELA;STATUS
 st_ligacoes_gestor_loja;PENDENTE
 st_pagamentos_verdesys;PENDENTE
 st_acao_af_base;PENDENTE
-st_pedidos_cancelados;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
