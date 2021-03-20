@@ -5,15 +5,13 @@ st_ligacoes_gestor_loja;PENDENTE
 st_acao_af_base;PENDENTE
 st_aprov_contas;PENDENTE
 st_complementares_sf;PENDENTE
+st_carga_verdecob;CARREGANDO
 st_mensageria;PENDENTE
 st_mora_e_multa_filial;PENDENTE
-st_carga_verdecob;PENDENTE
 st_produtos_cob;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
-st_mora_e_multa;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_dp_quadro_orcado_real_lojas;PENDENTE
 st_movimentacao_mercadoria_08;PENDENTE
