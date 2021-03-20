@@ -1,5 +1,4 @@
 TABELA;STATUS
-st_apropriacao_encargos;CARREGANDO
 st_ligacoes_gestor_loja;PENDENTE
 st_contas_credito_suspenso;PENDENTE
 st_pagamentos_verdesys;PENDENTE
@@ -13,9 +12,13 @@ st_produtos_cob;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_credito_sem_acrescimo;PENDENTE
 st_credito_desconto;PENDENTE
-st_clientes_app;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_estoque_talao_graf;PENDENTE
-st_autenticacoes_pdv;LIBERADO
-st_movimentacao_mercadoria_06;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
+st_movimentacao_mercadoria_06;PENDENTE
+st_movimentacao_mercadoria_07;PENDENTE
+st_dp_quadro_orcado_real_lojas;PENDENTE
+st_ke5z_compl_07;PENDENTE
+st_sms_carga_sc;PENDENTE
+st_mora_e_multa;PENDENTE
+st_pesquisa_satisfacao;PENDENTE
