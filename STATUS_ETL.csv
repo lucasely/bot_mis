@@ -53,7 +53,8 @@ st_producao_merc_17;PAUSADO
 st_movimentacao_mercadoria_18;PENDENTE
 st_ke5z_compl_18;PENDENTE
 st_producao_merc_18;PAUSADO
-st_movimentacao_mercadoria_19;PENDENTE
 st_ke5z_compl_19;PENDENTE
-st_producao_merc_19;CARREGANDO
-st_producao_merc_19;LIBERADO
+st_movimentacao_mercadoria_19;PENDENTE
+st_producao_merc_19;PAUSADO
+st_ke5z_compl_20;PENDENTE
+st_movimentacao_mercadoria_20;PENDENTE
