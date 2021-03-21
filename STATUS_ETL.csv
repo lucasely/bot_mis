@@ -1,9 +1,8 @@
 TABELA;STATUS
-es_ecommerce_sessoes;PENDENTE
 st_ligacoes_gestor_loja;PENDENTE
 st_pagamentos_verdesys;PENDENTE
 es_promo_rede;PENDENTE
-st_contas_credito_suspenso;PENDENTE
+es_ecommerce_sessoes;PENDENTE
 st_complementares_sf;PENDENTE
 dw_score_telefone_cobranca;PENDENTE
 st_mensageria;PENDENTE
@@ -31,5 +30,7 @@ st_movimentacao_mercadoria_10;PENDENTE
 st_sms_nps;PENDENTE
 st_producao_merc_10;PAUSADO
 st_producao_merc_10;PAUSADO
-st_movimentacao_mercadoria_11;PENDENTE
 st_ke5z_compl_11;PENDENTE
+st_movimentacao_mercadoria_11;PENDENTE
+st_producao_merc_11;PAUSADO
+st_producao_merc_11;PAUSADO
