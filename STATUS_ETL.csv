@@ -2,6 +2,4 @@ TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
-st_movimentacao_mercadoria_18;PENDENTE
-st_producao_merc_18;CARREGANDO
-st_producao_merc_18;LIBERADO
+st_movimentacao_mercadoria_19;PENDENTE
