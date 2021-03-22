@@ -1,6 +1,6 @@
 TABELA;STATUS
-st_contas_credito_suspenso;PENDENTE
 st_ligacoes_gestor_loja;PENDENTE
+st_contas_credito_suspenso;PENDENTE
 st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PAUSADO
 st_carga_verdecob;PENDENTE
@@ -16,10 +16,9 @@ st_adesao_parcelamento;PENDENTE
 st_pedidos_estoque;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_estoque_talao_graf;PENDENTE
-st_sms_carga_avaliacao_app;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
+st_sms_carga_avaliacao_app;PENDENTE
 st_mora_e_multa;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_movimentacao_mercadoria_07;PENDENTE
 st_dp_quadro_orcado_real_lojas;PENDENTE
-st_sms_carga_sc;PENDENTE
