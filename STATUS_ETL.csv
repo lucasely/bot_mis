@@ -8,6 +8,9 @@ st_liquidacoes;PENDENTE
 st_dp_funcao;PENDENTE
 st_apropriacao_encargos;PENDENTE
 es_promo_rede;PENDENTE
-st_pagamentos_verdesys;CARREGANDO
 st_dp_secao;PENDENTE
 st_contas_credito_suspenso;PENDENTE
+st_bd_resumida;PENDENTE
+st_operacoes_por_contrato_vd;PENDENTE
+st_ocorrencias_verdecob;PENDENTE
+st_acao_af_base;PENDENTE
