@@ -2,7 +2,6 @@ TABELA;STATUS
 st_ligacoes_gestor_loja;PENDENTE
 st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PAUSADO
-st_mensageria;CARREGANDO
 st_produtos_cob;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_estoque_talao_graf;PENDENTE
