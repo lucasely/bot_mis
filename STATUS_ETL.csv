@@ -3,13 +3,13 @@ st_contas_credito_suspenso;PENDENTE
 st_ligacoes_gestor_loja;PENDENTE
 st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PAUSADO
+st_carga_verdecob;CARREGANDO
 st_aprov_contas;PENDENTE
 st_complementares_sf;PENDENTE
 st_seguro_residencial;PENDENTE
 st_imagens_servidor;PENDENTE
 st_mensageria;PENDENTE
 st_mora_e_multa_filial;PENDENTE
-st_carga_verdecob;PENDENTE
 st_produtos_cob;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_pedidos_pendentes;PENDENTE
