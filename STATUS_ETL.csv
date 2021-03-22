@@ -2,6 +2,7 @@ TABELA;STATUS
 st_apropriacao_encargos;PENDENTE
 st_contas_credito_suspenso;PENDENTE
 st_ligacoes_gestor_loja;PENDENTE
+st_bd_resumida;CARREGANDO
 st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PAUSADO
 st_aprov_contas;PENDENTE
@@ -26,3 +27,5 @@ st_operacoes_por_parcela;PENDENTE
 st_cartoes_novos;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_autenticacoes_pdv;PENDENTE
+st_movimentacao_mercadoria_06;PENDENTE
+st_sms_carga_avaliacao_app;PENDENTE
