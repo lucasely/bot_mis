@@ -1,11 +1,11 @@
 TABELA;STATUS
+st_ligacoes_gestor_loja;PENDENTE
 st_contas_credito_suspenso;PENDENTE
 st_pagamentos_verdesys;PENDENTE
 st_apropriacao_encargos;PENDENTE
-st_ligacoes_gestor_loja;PENDENTE
 st_acao_af_base;PENDENTE
-st_bd_resumida;PENDENTE
 st_operacoes_por_contrato_vd;PENDENTE
+st_bd_resumida;CARREGANDO
 st_envio_sms_automatico;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_mensageria;PENDENTE
@@ -17,7 +17,6 @@ st_credito_desconto;PENDENTE
 st_aprov_contas;PENDENTE
 st_complementares_sf;PENDENTE
 st_seguro_residencial;PENDENTE
-dw_score_telefone_cobranca;PENDENTE
 st_imagens_servidor;PENDENTE
 st_clientes_app;PENDENTE
 st_credito_pessoal;PENDENTE
@@ -27,5 +26,6 @@ st_pedidos_pendentes;PENDENTE
 st_operacoes_por_parcela;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_cartoes_novos;PENDENTE
-st_autenticacoes_pdv;PENDENTE
 es_cadastro_estabelecimentos;PENDENTE
+st_sms_carga_avaliacao_app;PENDENTE
+st_movimentacao_mercadoria_06;PENDENTE
