@@ -2,7 +2,4 @@ TABELA;STATUS
 st_pedidos_cancelados;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_clientes_categoria;PENDENTE
-st_contatos_positivos;PENDENTE
-st_sms_nps;PENDENTE
-st_movimentacao_mercadoria_11;PENDENTE
+st_movimentacao_mercadoria_12;PENDENTE
