@@ -1,9 +1,10 @@
 TABELA;STATUS
-st_pagamentos_verdesys;CARREGANDO
 st_mensageria;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_realizado_escola_virtual;PENDENTE
-st_movimentacao_mercadoria_09;PENDENTE
+st_clientes_categoria;PENDENTE
+st_movimentacao_mercadoria_10;PENDENTE
+st_contatos_positivos;PENDENTE
+st_sms_nps;PENDENTE
