@@ -3,6 +3,7 @@ st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_movimentacao_mercadoria_20;PENDENTE
-st_movimentacao_mercadoria_21;PENDENTE
-st_garantia_exclusoes;PENDENTE
 st_spp_exclusoes;PENDENTE
+st_movimentacao_mercadoria_21;PENDENTE
+st_producao_merc_21;LIBERADO
+st_producao_merc_21;CARREGANDO
