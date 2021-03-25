@@ -2,7 +2,8 @@ TABELA;STATUS
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_movimentacao_mercadoria_20;PENDENTE
+st_movimentacao_mercadoria_21;PENDENTE
 st_spp_exclusoes;PENDENTE
 st_ke5z_compl_21;PENDENTE
-st_movimentacao_mercadoria_21;PENDENTE
-st_garantia_exclusoes;PENDENTE
+st_producao_merc_21;LIBERADO
+st_producao_merc_21;CARREGANDO
