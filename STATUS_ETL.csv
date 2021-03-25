@@ -1,6 +1,6 @@
 TABELA;STATUS
 es_ecommerce_sessoes;PENDENTE
-es_map_material;PENDENTE
+st_liquidacoes;PENDENTE
 st_ligacoes_contact_center;PENDENTE
 st_contas_credito_suspenso;PENDENTE
 es_cadfunc;PENDENTE
@@ -9,7 +9,6 @@ es_promo_rede;PENDENTE
 st_apropriacao_encargos;PENDENTE
 st_pagamentos_verdesys;PENDENTE
 st_dp_funcao;PENDENTE
-st_liquidacoes;PENDENTE
 st_ocorrencias_verdecob;PENDENTE
 st_operacoes_por_contrato_vd;PENDENTE
 st_bd_resumida;PENDENTE
@@ -22,9 +21,9 @@ st_garantia;PENDENTE
 dw_score_telefone_cobranca;PENDENTE
 st_talao;PENDENTE
 st_caracteristicas_concentrador;PENDENTE
-st_seguro_residencial;PENDENTE
-st_aprov_contas;PENDENTE
 st_complementares_sf;PENDENTE
+st_aprov_contas;PENDENTE
+st_seguro_residencial;PENDENTE
 st_mensageria;PENDENTE
 st_mora_e_multa_filial;PENDENTE
 st_quero_premio;PENDENTE
@@ -41,3 +40,16 @@ st_estoque_fisico;PENDENTE
 st_acordos_pagos;PENDENTE
 st_talao_estoque;PENDENTE
 st_estoque_padrao_loja;PENDENTE
+es_map_preco;PENDENTE
+st_producao_merc_02;PENDENTE
+es_map_caracteristicas;PENDENTE
+st_credito_pessoal;PENDENTE
+st_pedidos_estoque;PENDENTE
+st_adesao_parcelamento;PENDENTE
+st_chamados_fireman;PENDENTE
+st_spp_mensal;PENDENTE
+st_dp_batidas_colab;PENDENTE
+st_producao_merc_02;PENDENTE
+st_pedidos_pendentes;PENDENTE
+st_operadores_fireman;PENDENTE
+st_usuarios_fireman;PENDENTE
