@@ -2,3 +2,5 @@ TABELA;STATUS
 st_movimentacao_mercadoria_06;PENDENTE
 st_movimentacao_mercadoria_19;PENDENTE
 st_movimentacao_mercadoria_20;PENDENTE
+st_producao_merc_20;LIBERADO
+st_producao_merc_20;CARREGANDO
