@@ -1,7 +1,5 @@
 TABELA;STATUS
-st_estoque_talao_graf;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_movimentacao_mercadoria_12;PENDENTE
-st_producao_merc_12;LIBERADO
-st_producao_merc_12;CARREGANDO
+st_movimentacao_mercadoria_13;PENDENTE
+st_dp_saldo_he;PENDENTE
