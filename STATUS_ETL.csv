@@ -1,4 +1,5 @@
 TABELA;STATUS
 st_movimentacao_mercadoria_06;PENDENTE
 st_movimentacao_mercadoria_20;PENDENTE
-st_ke5z_compl_20;PENDENTE
+st_producao_merc_20;LIBERADO
+st_producao_merc_20;CARREGANDO
