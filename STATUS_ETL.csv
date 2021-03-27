@@ -4,3 +4,5 @@ st_sms_carga_avaliacao_app;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_sms_nps;PAUSADO
 st_movimentacao_mercadoria_15;PENDENTE
+st_producao_merc_15;LIBERADO
+st_producao_merc_15;CARREGANDO
