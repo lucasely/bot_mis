@@ -1,15 +1,10 @@
 TABELA;STATUS
 st_contas_credito_suspenso;PENDENTE
 st_pagamentos_verdesys;PENDENTE
-st_acao_af_base;PENDENTE
-st_aprov_contas;PENDENTE
-st_complementares_sf;PENDENTE
-st_imagens_servidor;PENDENTE
 st_mensageria;PENDENTE
 st_pedidos_cancelados;PENDENTE
-st_carga_verdecob;CARREGANDO
-st_adesao_parcelamento;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_movimentacao_mercadoria_08;PENDENTE
+st_realizado_escola_virtual;PENDENTE
+st_movimentacao_mercadoria_09;PENDENTE
