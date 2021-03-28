@@ -17,8 +17,8 @@ st_movimentacao_mercadoria_08;PENDENTE
 st_ke5z_compl_08;PENDENTE
 st_realizado_escola_virtual;PENDENTE
 st_movimentacao_mercadoria_09;PENDENTE
-st_ke5z_compl_10;PENDENTE
 st_movimentacao_mercadoria_10;PENDENTE
+st_ke5z_compl_10;PENDENTE
 st_sms_nps;PAUSADO
 st_producao_merc_10;PAUSADO
 st_producao_merc_10;PAUSADO
@@ -30,8 +30,8 @@ st_movimentacao_mercadoria_12;PENDENTE
 st_ke5z_compl_12;PENDENTE
 st_producao_merc_12;PAUSADO
 st_producao_merc_12;PAUSADO
-st_dp_saldo_he;PENDENTE
 st_ke5z_compl_13;PENDENTE
+st_dp_saldo_he;PENDENTE
 st_movimentacao_mercadoria_13;PENDENTE
 st_producao_merc_13;PAUSADO
 st_producao_merc_13;PAUSADO
@@ -44,8 +44,10 @@ st_producao_merc_15;PAUSADO
 st_ke5z_compl_16;PENDENTE
 st_movimentacao_mercadoria_16;PENDENTE
 st_producao_merc_16;PAUSADO
-st_ke5z_compl_17;PENDENTE
 st_movimentacao_mercadoria_17;PENDENTE
+st_ke5z_compl_17;PENDENTE
 st_producao_merc_17;PAUSADO
 st_ke5z_compl_18;PENDENTE
 st_movimentacao_mercadoria_18;PENDENTE
+st_producao_merc_18;LIBERADO
+st_producao_merc_18;CARREGANDO
