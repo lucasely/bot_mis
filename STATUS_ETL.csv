@@ -1,7 +1,7 @@
 TABELA;STATUS
-st_pagamentos_verdesys;PENDENTE
 es_ecommerce_sessoes;PENDENTE
 es_promo_rede;PENDENTE
+st_pagamentos_verdesys;PENDENTE
 st_produtos_cob;PENDENTE
 st_pedidos_estoque;PENDENTE
 st_pedidos_pendentes;PENDENTE
@@ -11,13 +11,13 @@ st_log_ep;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
 st_movimentacao_mercadoria_07;PENDENTE
+st_ke5z_compl_07;PENDENTE
 st_sms_carga_sc;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_ke5z_compl_07;PENDENTE
 st_ke5z_compl_08;PENDENTE
 st_movimentacao_mercadoria_08;PENDENTE
-st_realizado_escola_virtual;PENDENTE
 st_movimentacao_mercadoria_09;PENDENTE
+st_realizado_escola_virtual;PENDENTE
 st_movimentacao_mercadoria_10;PENDENTE
 st_ke5z_compl_10;PENDENTE
 st_sms_nps;PAUSADO
@@ -31,9 +31,9 @@ st_ke5z_compl_12;PENDENTE
 st_movimentacao_mercadoria_12;PENDENTE
 st_producao_merc_12;PAUSADO
 st_producao_merc_12;PAUSADO
-st_movimentacao_mercadoria_13;PENDENTE
-st_dp_saldo_he;PENDENTE
 st_ke5z_compl_13;PENDENTE
+st_dp_saldo_he;PENDENTE
+st_movimentacao_mercadoria_13;PENDENTE
 st_producao_merc_13;PAUSADO
 st_producao_merc_13;PAUSADO
 st_ke5z_compl_14;PENDENTE
@@ -41,5 +41,6 @@ st_movimentacao_mercadoria_14;PENDENTE
 st_producao_merc_14;PAUSADO
 st_movimentacao_mercadoria_15;PENDENTE
 st_ke5z_compl_15;PENDENTE
-st_producao_merc_15;LIBERADO
-st_producao_merc_15;CARREGANDO
+st_producao_merc_15;PAUSADO
+st_movimentacao_mercadoria_16;PENDENTE
+st_ke5z_compl_16;PENDENTE
