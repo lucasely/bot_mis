@@ -1,5 +1,4 @@
 TABELA;STATUS
-es_ecommerce_sessoes;PENDENTE
 es_cadfunc;PENDENTE
 st_dp_secao;PENDENTE
 es_promo_rede;PENDENTE
@@ -7,9 +6,9 @@ st_apropriacao_encargos;PENDENTE
 st_pagamentos_verdesys;PENDENTE
 st_dp_funcao;PENDENTE
 st_liquidacoes;PENDENTE
-es_map_material;PENDENTE
 st_ligacoes_contact_center;PENDENTE
 st_contas_credito_suspenso;PENDENTE
+es_ecommerce_sessoes;PENDENTE
 st_ocorrencias_verdecob;PENDENTE
 st_bd_resumida;PENDENTE
 st_acao_af_base;PENDENTE
@@ -41,3 +40,16 @@ st_estoque_fisico;PENDENTE
 st_estoque_fisico;PENDENTE
 st_credito_desconto;PENDENTE
 st_estoque_padrao_loja;PENDENTE
+st_spp_mensal;PENDENTE
+st_chamados_fireman;PENDENTE
+es_map_preco;PENDENTE
+st_usuarios_fireman;PENDENTE
+st_dp_batidas_colab;PENDENTE
+st_operadores_fireman;PENDENTE
+st_pedidos_pendentes;PENDENTE
+st_producao_merc_02;PENDENTE
+st_pedidos_estoque;PENDENTE
+st_credito_pessoal;PENDENTE
+es_map_caracteristicas;PENDENTE
+st_producao_merc_02;PENDENTE
+st_adesao_parcelamento;PENDENTE
