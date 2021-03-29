@@ -4,8 +4,6 @@ st_mensageria;PENDENTE
 st_produtos_cob;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_envio_sms_automatico;PAUSADO
-st_pedidos_estoque;PENDENTE
-st_pedidos_pendentes;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
