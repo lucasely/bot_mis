@@ -2,3 +2,5 @@ TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_movimentacao_mercadoria_18;PENDENTE
+st_producao_merc_18;LIBERADO
+st_producao_merc_18;CARREGANDO
