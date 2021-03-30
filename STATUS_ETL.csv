@@ -8,5 +8,7 @@ st_estoque_talao_graf;PENDENTE
 es_bloq_conta;PAUSADO
 st_log_ep;PAUSADO
 st_pesquisa_satisfacao;PENDENTE
-st_movimentacao_mercadoria_09;PENDENTE
-st_realizado_escola_virtual;PENDENTE
+st_clientes_categoria;PENDENTE
+st_contatos_positivos;PENDENTE
+st_movimentacao_mercadoria_10;PENDENTE
+st_sms_nps;PENDENTE
