@@ -1,6 +1,6 @@
 TABELA;STATUS
-st_pagamentos_verdesys;PENDENTE
 st_contas_credito_suspenso;PENDENTE
+st_pagamentos_verdesys;PENDENTE
 st_acao_af_base;PENDENTE
 st_seguro_residencial;PENDENTE
 st_garantia;PENDENTE
@@ -13,15 +13,15 @@ st_credito_sem_acrescimo;PENDENTE
 st_credito_desconto;PENDENTE
 st_complementares_sf;PENDENTE
 st_aprov_contas;PENDENTE
-st_spp_mensal;PENDENTE
 st_adesao_parcelamento;PENDENTE
+st_spp_mensal;PENDENTE
 st_credito_pessoal;PENDENTE
 st_estoque_talao_graf;PENDENTE
 es_bloq_conta;PAUSADO
 st_log_ep;PAUSADO
 st_sms_carga_avaliacao_app;PENDENTE
+st_pesquisa_satisfacao;PENDENTE
+st_movimentacao_mercadoria_07;PENDENTE
 st_sms_carga_sc;PENDENTE
 st_dp_quadro_orcado_real_lojas;PENDENTE
-st_movimentacao_mercadoria_07;PENDENTE
-st_pesquisa_satisfacao;PENDENTE
 st_mora_e_multa;PENDENTE
