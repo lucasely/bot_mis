@@ -6,5 +6,6 @@ st_sms_nps;PAUSADO
 st_movimentacao_mercadoria_19;PENDENTE
 st_movimentacao_mercadoria_20;PENDENTE
 st_movimentacao_mercadoria_21;PENDENTE
-st_garantia_exclusoes;PENDENTE
 st_spp_exclusoes;PENDENTE
+st_producao_merc_21;CARREGANDO
+st_producao_merc_21;LIBERADO
