@@ -4,5 +4,6 @@ st_estoque_talao_graf;PENDENTE
 st_log_ep;PAUSADO
 st_pesquisa_satisfacao;PENDENTE
 st_sms_nps;PAUSADO
-st_dp_saldo_he;PENDENTE
+st_dp_saldo_he;LIBERADO
 st_movimentacao_mercadoria_14;PENDENTE
+st_producao_merc_14;CARREGANDO
