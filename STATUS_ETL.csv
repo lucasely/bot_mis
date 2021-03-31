@@ -1,3 +1,5 @@
 TABELA;STATUS
 st_sms_nps;PAUSADO
 st_movimentacao_mercadoria_19;PENDENTE
+st_producao_merc_19;LIBERADO
+st_producao_merc_19;CARREGANDO
