@@ -21,6 +21,7 @@ st_movimentacao_mercadoria_06;PENDENTE
 st_sms_carga_sc;PENDENTE
 st_log_parcelamento;PENDENTE
 st_escola_virtual_metas;PENDENTE
-st_clientes_categoria;PENDENTE
 st_sms_nps;PAUSADO
 st_movimentacao_mercadoria_12;PENDENTE
+st_producao_merc_12;LIBERADO
+st_producao_merc_12;CARREGANDO
