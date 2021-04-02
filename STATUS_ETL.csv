@@ -7,7 +7,7 @@ st_bd;PENDENTE
 st_liquidacoes;PENDENTE
 st_contas_credito_suspenso;PENDENTE
 st_apropriacao_encargos;PENDENTE
-st_bd_resumida;PENDENTE
+st_bd_resumida;CARREGANDO
 st_operacoes_por_contrato_vd;PENDENTE
 st_ocorrencias_verdecob;PENDENTE
 st_acao_af_base;PENDENTE
@@ -37,3 +37,5 @@ st_cartoes_novos;PENDENTE
 es_cadastro_estabelecimentos;PENDENTE
 st_ocorrencias_assessorias;PENDENTE
 st_log_ep;PENDENTE
+st_sms_carga_avaliacao_app;PENDENTE
+st_movimentacao_mercadoria_06;PENDENTE
