@@ -2,7 +2,6 @@ TABELA;STATUS
 st_producao_merc_00;PENDENTE
 st_bd;PENDENTE
 st_producao_merc_00;PENDENTE
-st_mensageria;PENDENTE
 st_garantia;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_estoque_padrao_loja;PENDENTE
@@ -10,9 +9,9 @@ st_spp_mensal;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_log_ep;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
+st_sms_carga_sc;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_movimentacao_mercadoria_07;PENDENTE
-st_sms_carga_sc;PENDENTE
 st_movimentacao_mercadoria_08;PENDENTE
 st_contatos_positivos;PENDENTE
 st_sms_nps;PAUSADO
@@ -24,8 +23,10 @@ st_producao_merc_12;PAUSADO
 st_movimentacao_mercadoria_13;PENDENTE
 st_ke5z_compl_13;PENDENTE
 st_producao_merc_13;PAUSADO
-st_movimentacao_mercadoria_14;PENDENTE
 st_ke5z_compl_14;PENDENTE
+st_movimentacao_mercadoria_14;PENDENTE
 st_producao_merc_14;PAUSADO
 st_ke5z_compl_15;PENDENTE
 st_movimentacao_mercadoria_15;PENDENTE
+st_producao_merc_15;LIBERADO
+st_producao_merc_15;CARREGANDO
