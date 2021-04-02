@@ -21,7 +21,7 @@ st_pedidos_cancelados;PENDENTE
 es_bloq_fone;PENDENTE
 st_complementares_sf;PENDENTE
 st_imagens_servidor;PENDENTE
-st_produtos_cob;PENDENTE
+st_clientes_app;PENDENTE
 st_mora_e_multa_filial;PENDENTE
 st_mensageria;PENDENTE
 dw_score_telefone_cobranca;PENDENTE
@@ -29,10 +29,9 @@ st_aprov_contas;PENDENTE
 st_garantia;PENDENTE
 st_quero_premio;PENDENTE
 st_seguro_residencial;PENDENTE
-st_talao_estoque;PENDENTE
 st_dp_ferias;PENDENTE
 st_carga_verdecob;PENDENTE
-st_clientes_app;PENDENTE
+st_produtos_cob;PENDENTE
 st_envio_sms_automatico;PENDENTE
 st_estoque_fisico;PENDENTE
 st_estoque_fisico;PENDENTE
