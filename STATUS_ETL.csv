@@ -1,6 +1,6 @@
 TABELA;STATUS
-st_bd;PENDENTE
 st_pagamentos_verdesys;PENDENTE
+st_bd;PENDENTE
 st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PAUSADO
 st_produtos_cob;PENDENTE
@@ -9,6 +9,4 @@ st_pesquisa_satisfacao;PENDENTE
 st_movimentacao_mercadoria_08;PENDENTE
 st_contatos_positivos;PENDENTE
 st_sms_nps;PAUSADO
-st_movimentacao_mercadoria_16;PENDENTE
-st_producao_merc_16;LIBERADO
-st_producao_merc_16;CARREGANDO
+st_movimentacao_mercadoria_17;PENDENTE
