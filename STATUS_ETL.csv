@@ -1,11 +1,11 @@
 TABELA;STATUS
 es_map_material;PENDENTE
-st_contas_credito_suspenso;PENDENTE
 st_bd;PENDENTE
 st_pagamentos_verdesys;PENDENTE
 es_cadfunc;PENDENTE
 st_ligacoes_gestor_loja;PENDENTE
 st_producao_merc_00;PENDENTE
+st_contas_credito_suspenso;PENDENTE
 st_dp_funcao;PENDENTE
 es_ecommerce_sessoes;PENDENTE
 st_apropriacao_encargos;PENDENTE
@@ -44,3 +44,4 @@ st_envio_sms_automatico;PENDENTE
 st_estoque_fisico;PENDENTE
 st_estoque_fisico;PENDENTE
 st_estoque_fisico;PENDENTE
+st_estoque_padrao_loja;PENDENTE
