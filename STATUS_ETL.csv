@@ -1,6 +1,5 @@
 TABELA;STATUS
 st_ligacoes_contact_center;PENDENTE
-es_map_material;PENDENTE
 es_ecommerce_sessoes;PENDENTE
 es_cadfunc;PENDENTE
 st_contas_credito_suspenso;PENDENTE
@@ -42,3 +41,16 @@ st_carga_verdecob;PENDENTE
 es_bloq_fone;PENDENTE
 st_clientes_app;PENDENTE
 st_estoque_padrao_loja;PENDENTE
+es_map_preco;PENDENTE
+st_producao_merc_02;PENDENTE
+es_map_caracteristicas;PENDENTE
+st_pedidos_pendentes;PENDENTE
+st_pedidos_estoque;PENDENTE
+st_operadores_fireman;PENDENTE
+st_chamados_fireman;PENDENTE
+st_spp_mensal;PENDENTE
+st_credito_pessoal;PENDENTE
+st_adesao_parcelamento;PENDENTE
+st_dp_batidas_colab;PENDENTE
+st_usuarios_fireman;PENDENTE
+st_producao_merc_02;PENDENTE
