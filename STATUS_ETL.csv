@@ -1,12 +1,10 @@
 TABELA;STATUS
+st_apropriacao_encargos;PENDENTE
 es_promo_rede;PENDENTE
-st_dp_secao;PENDENTE
 es_ecommerce_sessoes;PENDENTE
 st_contas_credito_suspenso;PENDENTE
 st_liquidacoes;PENDENTE
-st_dp_funcao;PENDENTE
 st_pagamentos_verdesys;PENDENTE
-st_apropriacao_encargos;PENDENTE
 st_bd_resumida;PENDENTE
 st_ocorrencias_verdecob;PENDENTE
 st_acao_af_base;PENDENTE
@@ -14,7 +12,8 @@ st_operacoes_por_contrato_vd;PENDENTE
 st_carga_verdecob;PENDENTE
 st_produtos_cob;PENDENTE
 es_bloq_fone;PENDENTE
-st_credito_sem_acrescimo;PENDENTE
+st_pedidos_cancelados;PENDENTE
+st_credito_desconto;PENDENTE
 st_acordos_pagos;PENDENTE
 st_complementares_sf;PENDENTE
 st_seguro_residencial;PENDENTE
@@ -26,8 +25,7 @@ st_mensageria;PENDENTE
 st_mora_e_multa_filial;PENDENTE
 st_quero_premio;PENDENTE
 st_dp_ferias;PENDENTE
-st_pedidos_cancelados;PENDENTE
-st_credito_desconto;PENDENTE
+st_credito_sem_acrescimo;PENDENTE
 st_aprov_contas;PENDENTE
 st_talao_estoque;PENDENTE
 st_clientes_app;PENDENTE
@@ -37,8 +35,11 @@ st_credito_pessoal;PENDENTE
 st_pedidos_estoque;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_pedidos_pendentes;PENDENTE
-st_dp_afastados;PENDENTE
 st_operacoes_por_parcela;PENDENTE
-st_estoque_talao_graf;PENDENTE
 st_cartoes_novos;PENDENTE
 es_map_material_marm;PENDENTE
+st_estoque_talao_graf;PENDENTE
+st_autenticacoes_pdv;PENDENTE
+st_ocorrencias_assessorias;PENDENTE
+es_cadastro_estabelecimentos;PENDENTE
+st_log_ep;PENDENTE
