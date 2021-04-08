@@ -14,9 +14,7 @@ st_bd_resumida;PENDENTE
 st_operacoes_por_contrato_vd;PENDENTE
 st_ocorrencias_verdecob;PENDENTE
 st_imagens_servidor;PENDENTE
-dw_score_telefone_cobranca;PENDENTE
 st_garantia;PENDENTE
-st_seguro_residencial;PENDENTE
 st_mensageria;PENDENTE
 st_mora_e_multa_filial;PENDENTE
 st_quero_premio;PENDENTE
@@ -35,12 +33,14 @@ st_clientes_app;PENDENTE
 st_envio_sms_automatico;PENDENTE
 st_aprov_contas;PENDENTE
 st_complementares_sf;PENDENTE
+st_seguro_residencial;PENDENTE
+dw_score_telefone_cobranca;PENDENTE
 st_estoque_padrao_loja;PENDENTE
-es_map_caracteristicas;PENDENTE
-es_map_preco;PENDENTE
 st_dp_batidas_colab;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_credito_pessoal;PENDENTE
 st_pedidos_estoque;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_spp_mensal;PENDENTE
+st_operacoes_por_parcela;PENDENTE
+st_dp_afastados;PENDENTE
