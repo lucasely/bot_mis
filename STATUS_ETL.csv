@@ -1,6 +1,6 @@
 TABELA;STATUS
-st_contas_credito_suspenso;PENDENTE
 st_pagamentos_verdesys;PENDENTE
+st_contas_credito_suspenso;PENDENTE
 st_carga_verdecob;PENDENTE
 st_envio_sms_automatico;PENDENTE
 st_adesao_parcelamento;PENDENTE
@@ -11,4 +11,6 @@ st_pix_transacoes;PENDENTE
 es_conta_digital;PENDENTE
 es_pix_chaves;PENDENTE
 st_pix_conta;PENDENTE
-st_movimentacao_mercadoria_08;PENDENTE
+st_movimentacao_mercadoria_09;PENDENTE
+st_ke5z_compl_09;PENDENTE
+st_realizado_escola_virtual;PENDENTE
