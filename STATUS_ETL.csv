@@ -7,8 +7,11 @@ st_adesao_parcelamento;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-es_conta_digital;PENDENTE
 es_pix_chaves;PENDENTE
 st_pix_transacoes;PENDENTE
 st_pix_conta;PENDENTE
-st_movimentacao_mercadoria_09;PENDENTE
+es_conta_digital;PENDENTE
+st_movimentacao_mercadoria_10;PENDENTE
+st_contatos_positivos;PENDENTE
+st_clientes_categoria;PENDENTE
+st_sms_nps;PENDENTE
