@@ -10,7 +10,6 @@ st_acao_af_base;PENDENTE
 st_clientes_app;PENDENTE
 st_seguro_residencial;PENDENTE
 st_produtos_cob;PENDENTE
-st_mora_e_multa_filial;PENDENTE
 st_mensageria;PENDENTE
 st_aprov_contas;PENDENTE
 dw_score_telefone_cobranca;PENDENTE
@@ -27,10 +26,7 @@ st_pedidos_pendentes;PENDENTE
 st_dp_batidas_colab;PENDENTE
 st_credito_pessoal;PENDENTE
 st_operacoes_por_parcela;PENDENTE
-st_estoque_talao_graf;PENDENTE
-es_map_material_marm;PENDENTE
 st_cartoes_novos;PENDENTE
+st_estoque_talao_graf;PENDENTE
 st_autenticacoes_pdv;PENDENTE
 es_cadastro_estabelecimentos;PENDENTE
-st_log_ep;PENDENTE
-st_ocorrencias_assessorias;PENDENTE
