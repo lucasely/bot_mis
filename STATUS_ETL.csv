@@ -4,13 +4,7 @@ st_envio_sms_automatico;PAUSADO
 es_pix_chaves;PENDENTE
 st_pix_transacoes;PENDENTE
 st_pix_conta;PENDENTE
-st_estoque_talao_graf;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 es_conta_digital;PENDENTE
-st_contatos_positivos;PENDENTE
-st_clientes_categoria;PENDENTE
-st_sms_nps;PENDENTE
-st_movimentacao_mercadoria_11;PENDENTE
-st_producao_merc_11;LIBERADO
-st_producao_merc_11;CARREGANDO
+st_movimentacao_mercadoria_12;PENDENTE
