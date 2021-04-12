@@ -11,4 +11,7 @@ st_pix_transacoes;PENDENTE
 es_conta_digital;PENDENTE
 es_pix_chaves;PENDENTE
 st_pix_conta;PENDENTE
-st_movimentacao_mercadoria_09;PENDENTE
+st_movimentacao_mercadoria_10;PENDENTE
+st_contatos_positivos;PENDENTE
+st_clientes_categoria;PENDENTE
+st_sms_nps;PENDENTE
