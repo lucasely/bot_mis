@@ -1,9 +1,11 @@
 TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PAUSADO
+st_pix_transacoes;PENDENTE
 st_pix_conta;PENDENTE
 es_pix_chaves;PENDENTE
-st_pix_transacoes;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 es_conta_digital;PENDENTE
 st_movimentacao_mercadoria_17;PENDENTE
+st_producao_merc_17;CARREGANDO
+st_producao_merc_17;LIBERADO
