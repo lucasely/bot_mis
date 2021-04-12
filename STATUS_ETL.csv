@@ -1,6 +1,5 @@
 TABELA;STATUS
 st_acao_af_base;PENDENTE
-st_produtos_cob;PENDENTE
 st_envio_sms_automatico;PAUSADO
 es_pix_chaves;PENDENTE
 st_pix_transacoes;PENDENTE
@@ -13,4 +12,5 @@ st_contatos_positivos;PENDENTE
 st_clientes_categoria;PENDENTE
 st_sms_nps;PENDENTE
 st_movimentacao_mercadoria_11;PENDENTE
-st_ke5z_compl_11;PENDENTE
+st_producao_merc_11;LIBERADO
+st_producao_merc_11;CARREGANDO
