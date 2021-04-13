@@ -4,6 +4,7 @@ st_contas_credito_suspenso;PENDENTE
 st_acao_af_base;PENDENTE
 st_mensageria;PENDENTE
 st_pedidos_cancelados;PENDENTE
+st_carga_verdecob;CARREGANDO
 st_estoque_padrao_loja;PENDENTE
 st_pix_conta;PENDENTE
 es_pix_chaves;PENDENTE
