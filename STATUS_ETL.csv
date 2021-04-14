@@ -1,12 +1,10 @@
 TABELA;STATUS
-st_pagamentos_verdesys;PENDENTE
 st_acao_af_base;PENDENTE
-es_conta_digital;PAUSADO
 es_pix_chaves;PAUSADO
 st_pix_conta;PAUSADO
-st_estoque_talao_graf;PENDENTE
+es_conta_digital;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_pix_transacoes;PAUSADO
-st_dp_saldo_he;PENDENTE
 st_movimentacao_mercadoria_13;PENDENTE
+st_dp_saldo_he;PENDENTE
