@@ -1,1 +1,17 @@
 TABELA;STATUS
+st_contas_credito_suspenso;PENDENTE
+es_promo_rede;PENDENTE
+st_liquidacoes;PENDENTE
+st_apropriacao_encargos;PENDENTE
+es_cadfunc;PENDENTE
+es_ecommerce_sessoes;PENDENTE
+st_ligacoes_gestor_loja;CARREGANDO
+st_ligacoes_contact_center;PENDENTE
+st_dp_secao;PENDENTE
+st_dp_funcao;PENDENTE
+es_map_material;PENDENTE
+st_pagamentos_verdesys;PENDENTE
+st_bd_resumida;PENDENTE
+st_ocorrencias_verdecob;PENDENTE
+st_operacoes_por_contrato_vd;PENDENTE
+st_acao_af_base;PENDENTE
