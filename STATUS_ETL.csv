@@ -5,9 +5,8 @@ st_carga_verdecob;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_estoque_talao_graf;PENDENTE
-st_log_ep;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_mora_e_multa;PENDENTE
-st_pix_transacoes;PENDENTE
 st_movimentacao_mercadoria_08;PENDENTE
+st_pix_transacoes;PENDENTE
