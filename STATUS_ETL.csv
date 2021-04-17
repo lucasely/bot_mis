@@ -1,11 +1,12 @@
 TABELA;STATUS
 st_complementares_sf;PENDENTE
+st_conta_digital_transacoes;PENDENTE
 st_pix_transacoes;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_pedidos_estoque;PENDENTE
-st_conta_digital_transacoes;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_movimentacao_mercadoria_17;PENDENTE
 st_movimentacao_mercadoria_18;PENDENTE
-st_ke5z_compl_18;PENDENTE
+st_producao_merc_18;CARREGANDO
+st_producao_merc_18;LIBERADO
