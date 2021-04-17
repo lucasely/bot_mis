@@ -1,6 +1,7 @@
 TABELA;STATUS
+st_ligacoes_contact_center;PENDENTE
 es_map_material;PENDENTE
-st_ligacoes_gestor_loja;PENDENTE
+st_ligacoes_gestor_loja;CARREGANDO
 st_contas_credito_suspenso;PENDENTE
 es_promo_rede;PENDENTE
 st_pagamentos_verdesys;PENDENTE
@@ -10,7 +11,6 @@ st_dp_secao;PENDENTE
 st_apropriacao_encargos;PENDENTE
 st_dp_funcao;PENDENTE
 st_liquidacoes;PENDENTE
-st_ligacoes_contact_center;PENDENTE
 st_bd_resumida;PENDENTE
 st_acao_af_base;PENDENTE
 st_ocorrencias_verdecob;PENDENTE
