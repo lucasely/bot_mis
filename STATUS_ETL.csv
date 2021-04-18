@@ -12,9 +12,9 @@ st_conta_digital_transacoes;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_movimentacao_mercadoria_07;PENDENTE
+st_sms_carga_sc;PENDENTE
 st_ke5z_compl_07;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_sms_carga_sc;PENDENTE
 st_movimentacao_mercadoria_08;PENDENTE
 st_ke5z_compl_08;PENDENTE
 st_ke5z_compl_09;PENDENTE
@@ -30,11 +30,13 @@ st_ke5z_compl_12;PENDENTE
 st_movimentacao_mercadoria_12;PENDENTE
 st_producao_merc_12;PAUSADO
 st_ke5z_compl_13;PENDENTE
-st_movimentacao_mercadoria_13;PENDENTE
 st_dp_saldo_he;PENDENTE
+st_movimentacao_mercadoria_13;PENDENTE
 st_producao_merc_13;PAUSADO
-st_ke5z_compl_14;PENDENTE
 st_movimentacao_mercadoria_14;PENDENTE
+st_ke5z_compl_14;PENDENTE
 st_producao_merc_14;PAUSADO
 st_ke5z_compl_15;PENDENTE
 st_movimentacao_mercadoria_15;PENDENTE
+st_producao_merc_15;LIBERADO
+st_producao_merc_15;CARREGANDO
