@@ -7,7 +7,6 @@ st_operacoes_por_contrato_vd;PENDENTE
 st_acao_af_base;PENDENTE
 st_clientes_app;PENDENTE
 st_pedidos_cancelados;PENDENTE
-es_bloq_fone;PENDENTE
 st_envio_sms_automatico;PENDENTE
 st_carga_verdecob;PENDENTE
 st_seguro_residencial;PENDENTE
@@ -33,6 +32,8 @@ es_pix_chaves;PENDENTE
 st_credito_pessoal;PENDENTE
 st_spp_mensal;PENDENTE
 st_operacoes_por_parcela;PENDENTE
-es_map_material_marm;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_cartoes_novos;PENDENTE
+st_log_ep;PENDENTE
+st_ocorrencias_assessorias;PENDENTE
+st_autenticacoes_pdv;PENDENTE
