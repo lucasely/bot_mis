@@ -1,10 +1,12 @@
 TABELA;STATUS
-st_pix_conta;PENDENTE
-st_acao_af_base;PENDENTE
+es_pix_chaves;PENDENTE
 st_conta_digital_transacoes;PENDENTE
 es_conta_digital;PENDENTE
-es_pix_chaves;PENDENTE
+st_pix_conta;PENDENTE
 st_pix_transacoes;PENDENTE
+st_acao_af_base;PENDENTE
 st_carteira_fornecedores;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_movimentacao_mercadoria_16;PENDENTE
+st_producao_merc_16;LIBERADO
+st_producao_merc_16;CARREGANDO
