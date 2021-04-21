@@ -3,8 +3,8 @@ es_cadfunc;PENDENTE
 st_liquidacoes;PENDENTE
 st_dp_funcao;PENDENTE
 es_ecommerce_sessoes;PENDENTE
-es_promo_rede;PENDENTE
 st_apropriacao_encargos;PENDENTE
+es_promo_rede;PENDENTE
 st_ligacoes_contact_center;PENDENTE
 st_contas_credito_suspenso;PENDENTE
 st_pagamentos_verdesys;PENDENTE
@@ -41,15 +41,12 @@ st_credito_sem_acrescimo;PENDENTE
 st_credito_desconto;PENDENTE
 st_talao_estoque;PENDENTE
 st_estoque_fisico;PENDENTE
-st_producao_merc_02;CARREGANDO
 st_credito_pessoal;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_spp_mensal;PENDENTE
 es_bloq_conta;PENDENTE
-es_map_caracteristicas;PENDENTE
 st_pedidos_estoque;PENDENTE
 st_dp_batidas_colab;PENDENTE
-st_producao_merc_02;LIBERADO
 st_adesao_parcelamento;PENDENTE
-st_dp_afastados;PENDENTE
 st_operacoes_por_parcela;PENDENTE
+st_dp_afastados;PENDENTE
