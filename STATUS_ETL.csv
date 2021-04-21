@@ -2,10 +2,10 @@ TABELA;STATUS
 st_pagamentos_verdesys;PENDENTE
 st_apropriacao_encargos;PENDENTE
 st_contas_credito_suspenso;PENDENTE
-es_pix_chaves;PENDENTE
 st_bd_resumida;PENDENTE
 st_conta_digital_transacoes;PENDENTE
 es_conta_digital;PENDENTE
+es_pix_chaves;PENDENTE
 st_pix_conta;PENDENTE
 st_pix_transacoes;PENDENTE
 st_acao_af_base;PENDENTE
@@ -14,7 +14,6 @@ st_produtos_cob;PENDENTE
 st_aprov_contas;PENDENTE
 st_seguro_residencial;PENDENTE
 st_carga_verdecob;PENDENTE
-dw_score_telefone_cobranca;PENDENTE
 st_imagens_servidor;PENDENTE
 st_complementares_sf;PENDENTE
 st_garantia;PENDENTE
@@ -27,11 +26,13 @@ st_quero_premio;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_spp_mensal;PENDENTE
 es_bloq_conta;PENDENTE
+st_credito_pessoal;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_pedidos_estoque;PENDENTE
-st_credito_pessoal;PENDENTE
 st_operacoes_por_parcela;PENDENTE
-st_ci;PENDENTE
+st_ci;CARREGANDO
 st_cartoes_novos;PENDENTE
 st_estoque_talao_graf;PENDENTE
 st_autenticacoes_pdv;PENDENTE
+st_sms_carga_avaliacao_app;PENDENTE
+st_movimentacao_mercadoria_06;PENDENTE
