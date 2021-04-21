@@ -1,9 +1,9 @@
 TABELA;STATUS
-st_pix_conta;PENDENTE
-st_conta_digital_transacoes;PENDENTE
-es_conta_digital;PENDENTE
 es_pix_chaves;PENDENTE
 st_pix_transacoes;PENDENTE
+st_conta_digital_transacoes;PENDENTE
+es_conta_digital;PENDENTE
+st_pix_conta;PENDENTE
 st_carteira_fornecedores;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_sms_carga_sc;PENDENTE
@@ -15,5 +15,5 @@ st_ke5z_compl_13;PENDENTE
 st_ke5z_compl_15;PENDENTE
 st_ke5z_compl_16;PENDENTE
 st_movimentacao_mercadoria_18;PENDENTE
-st_producao_merc_18;CARREGANDO
-st_producao_merc_18;LIBERADO
+st_ke5z_compl_19;PENDENTE
+st_movimentacao_mercadoria_19;PENDENTE
