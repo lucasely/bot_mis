@@ -6,8 +6,8 @@ st_pix_transacoes;PENDENTE
 es_conta_digital;PENDENTE
 st_carteira_fornecedores;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
-st_sms_carga_sc;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
+st_sms_carga_sc;PENDENTE
 st_ke5z_compl_08;PENDENTE
 st_producao_merc_10;PAUSADO
 st_movimentacao_mercadoria_11;PENDENTE
@@ -20,6 +20,7 @@ st_movimentacao_mercadoria_19;PENDENTE
 st_ke5z_compl_20;PENDENTE
 st_movimentacao_mercadoria_20;PENDENTE
 st_ke5z_compl_21;PENDENTE
-st_garantia_exclusoes;PENDENTE
 st_movimentacao_mercadoria_21;PENDENTE
 st_spp_exclusoes;PENDENTE
+st_producao_merc_21;LIBERADO
+st_producao_merc_21;CARREGANDO
