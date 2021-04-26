@@ -1,9 +1,7 @@
 TABELA;STATUS
-st_pagamentos_verdesys;PENDENTE
 st_acao_af_base;PENDENTE
 st_carteira_fornecedores;PENDENTE
 st_envio_sms_automatico;PAUSADO
-st_adesao_parcelamento;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_garantia;PENDENTE
 st_garantia;PENDENTE
@@ -12,3 +10,5 @@ st_garantia;PENDENTE
 st_garantia;PENDENTE
 st_garantia;PENDENTE
 st_movimentacao_mercadoria_16;PENDENTE
+st_producao_merc_16;LIBERADO
+st_producao_merc_16;CARREGANDO
