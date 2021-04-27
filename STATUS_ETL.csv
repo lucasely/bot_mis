@@ -6,7 +6,6 @@ st_pagamentos_verdesys;PENDENTE
 es_cadfunc;PENDENTE
 st_ligacoes_contact_center;PENDENTE
 st_liquidacoes;PENDENTE
-es_map_material;PENDENTE
 st_dp_secao;PENDENTE
 st_dp_funcao;PENDENTE
 st_apropriacao_encargos;PENDENTE
@@ -47,3 +46,17 @@ st_credito_sem_acrescimo;PENDENTE
 st_carteira_fornecedores;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_estoque_padrao_loja;PENDENTE
+st_producao_merc_02;PENDENTE
+es_bloq_conta;PENDENTE
+st_credito_pessoal;PENDENTE
+st_operadores_fireman;PENDENTE
+st_dp_batidas_colab;PENDENTE
+st_usuarios_fireman;PENDENTE
+st_spp_mensal;PENDENTE
+st_pedidos_estoque;PENDENTE
+es_map_caracteristicas;PENDENTE
+st_chamados_fireman;PENDENTE
+st_producao_merc_02;PENDENTE
+st_adesao_parcelamento;PENDENTE
+es_map_preco;PENDENTE
+st_pedidos_pendentes;PENDENTE
