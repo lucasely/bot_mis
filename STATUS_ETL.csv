@@ -1,9 +1,7 @@
 TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_carteira_fornecedores;PENDENTE
-st_estoque_talao_graf;PENDENTE
 st_log_ep;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_garantia;PENDENTE
 st_movimentacao_mercadoria_12;PENDENTE
