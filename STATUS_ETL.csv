@@ -1,7 +1,7 @@
 TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_carteira_fornecedores;PENDENTE
-st_pedidos_cancelados;PENDENTE
+st_pedidos_cancelados;LIBERADO
 st_estoque_talao_graf;PENDENTE
 st_log_ep;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
@@ -10,4 +10,4 @@ st_clientes_categoria;PENDENTE
 st_contatos_positivos;PENDENTE
 st_sms_nps;PENDENTE
 st_movimentacao_mercadoria_11;PENDENTE
-st_garantia;PENDENTE
+st_producao_merc_11;CARREGANDO
