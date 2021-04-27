@@ -32,9 +32,11 @@ st_spp_mensal;PENDENTE
 st_pedidos_estoque;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_operacoes_por_parcela;PENDENTE
-st_ci;PENDENTE
+st_ci;CARREGANDO
+st_seguro_roubofurtoquebra;PENDENTE
 st_cartoes_novos;PENDENTE
 st_estoque_talao_graf;PENDENTE
-st_seguro_roubofurtoquebra;PENDENTE
 st_autenticacoes_pdv;PENDENTE
 st_log_ep;PAUSADO
+st_sms_carga_avaliacao_app;PENDENTE
+st_movimentacao_mercadoria_06;PENDENTE
