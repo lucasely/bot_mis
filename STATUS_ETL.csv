@@ -3,9 +3,15 @@ st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_ci;PENDENTE
-es_aprov_oferte_ganhe;PENDENTE
 st_estoque_talao_graf;PENDENTE
+es_aprov_oferte_ganhe;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_sms_carga_oferta_pf;PENDENTE
-st_movimentacao_mercadoria_09;PENDENTE
+st_movimentacao_mercadoria_10;PENDENTE
+st_contatos_positivos;PENDENTE
+st_tabloide;PENDENTE
+st_clientes_categoria;PENDENTE
+st_garantia;PENDENTE
+st_seguro_roubofurtoquebra;PENDENTE
+st_sms_nps;PENDENTE
