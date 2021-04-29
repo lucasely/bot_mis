@@ -1,11 +1,11 @@
 TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_tabloide;PENDENTE
-st_ci;PENDENTE
+st_ci;CARREGANDO
 es_aprov_oferte_ganhe;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_sms_carga_oferta_pf;PENDENTE
+st_movimentacao_mercadoria_16;PENDENTE
 st_garantia;PENDENTE
-st_movimentacao_mercadoria_15;PENDENTE
-st_producao_merc_15;CARREGANDO
-st_producao_merc_15;LIBERADO
+st_ke5z_compl_16;PENDENTE
+st_seguro_roubofurtoquebra;PENDENTE
