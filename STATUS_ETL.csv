@@ -1,5 +1,4 @@
 TABELA;STATUS
-es_promo_rede;PENDENTE
 st_dp_secao;PENDENTE
 st_dp_funcao;PENDENTE
 es_map_material;PENDENTE
@@ -10,21 +9,21 @@ st_contas_credito_suspenso;PENDENTE
 st_pagamentos_verdesys;PENDENTE
 st_liquidacoes;PENDENTE
 st_apropriacao_encargos;PENDENTE
-es_conta_digital;PENDENTE
-es_pix_chaves;PENDENTE
+es_promo_rede;PENDENTE
+st_operacoes_por_contrato_vd;PENDENTE
 st_pix_conta;PENDENTE
+es_pix_chaves;PENDENTE
 st_pix_transacoes;PENDENTE
 st_conta_digital_transacoes;PENDENTE
 st_bd_resumida;PENDENTE
 st_ocorrencias_verdecob;PENDENTE
-st_operacoes_por_contrato_vd;PENDENTE
 st_acao_af_base;PENDENTE
-st_tabloide;PENDENTE
+es_conta_digital;PENDENTE
 dw_score_telefone_cobranca;PENDENTE
 es_plano_acao_oferte_ganhe;PENDENTE
 st_credito_desconto;PENDENTE
 st_estoque_fisico;PENDENTE
-st_mora_e_multa_filial;PENDENTE
+st_talao;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_seguro_residencial;PENDENTE
 st_envio_sms_automatico;PENDENTE
@@ -39,7 +38,7 @@ st_talao_estoque;PENDENTE
 st_carteira_fornecedores;PENDENTE
 st_imagens_servidor;PENDENTE
 st_mensageria;PENDENTE
-st_talao;PENDENTE
+st_mora_e_multa_filial;PENDENTE
 st_garantia;PENDENTE
 st_aprov_contas;PENDENTE
 st_credito_sem_acrescimo;PENDENTE
@@ -47,3 +46,4 @@ st_estoque_fisico;PENDENTE
 st_produtos_cob;PENDENTE
 es_bloq_fone;PENDENTE
 st_acordos_pagos;PENDENTE
+st_estoque_padrao_loja;PENDENTE
