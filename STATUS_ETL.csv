@@ -1,5 +1,8 @@
 TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
-st_movimentacao_mercadoria_20;PENDENTE
+st_movimentacao_mercadoria_21;PENDENTE
 st_garantia;PENDENTE
+st_spp_exclusoes;PENDENTE
+st_ke5z_compl_21;PENDENTE
+st_garantia_exclusoes;PENDENTE
