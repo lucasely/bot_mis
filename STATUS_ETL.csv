@@ -20,7 +20,6 @@ st_operacoes_por_contrato_vd;PENDENTE
 st_complementares_sf;PENDENTE
 st_seguro_residencial;PENDENTE
 st_mensageria;PENDENTE
-st_estoque_fisico;PENDENTE
 dw_score_telefone_cobranca;PENDENTE
 st_garantia;PENDENTE
 st_aprov_contas;PENDENTE
@@ -28,7 +27,6 @@ st_mora_e_multa_filial;PENDENTE
 st_imagens_servidor;PENDENTE
 st_carga_verdecob;PENDENTE
 st_acordos_pagos;PENDENTE
-st_estoque_fisico;PENDENTE
 st_quero_premio;PENDENTE
 st_clientes_app;PENDENTE
 es_bloq_fone;PENDENTE
@@ -40,16 +38,14 @@ st_credito_sem_acrescimo;PENDENTE
 st_spp_mensal;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_adesao_parcelamento;PENDENTE
-st_pedidos_estoque;PENDENTE
 es_bloq_conta;PENDENTE
 st_credito_pessoal;PENDENTE
+st_pedidos_estoque;PENDENTE
 st_operacoes_por_parcela;PENDENTE
 st_ci;PENDENTE
-st_cartoes_novos;PENDENTE
-st_estoque_talao_graf;PENDENTE
 st_seguro_roubofurtoquebra;PENDENTE
-es_map_material_marm;PENDENTE
-es_cadastro_estabelecimentos;PENDENTE
+st_estoque_talao_graf;PENDENTE
+st_cartoes_novos;PENDENTE
 st_autenticacoes_pdv;PENDENTE
-st_log_ep;PENDENTE
-st_ocorrencias_assessorias;PENDENTE
+es_cadastro_estabelecimentos;PENDENTE
+st_log_app;PENDENTE
