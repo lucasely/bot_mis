@@ -12,9 +12,9 @@ st_apropriacao_encargos;PENDENTE
 es_conta_digital;PENDENTE
 st_conta_digital_transacoes;PENDENTE
 es_pix_chaves;PENDENTE
-st_bd_resumida;PENDENTE
 st_pix_conta;PENDENTE
 st_pix_transacoes;PENDENTE
+st_bd_resumida;PENDENTE
 st_acao_af_base;PENDENTE
 st_operacoes_por_contrato_vd;PENDENTE
 st_complementares_sf;PENDENTE
@@ -41,11 +41,12 @@ st_adesao_parcelamento;PENDENTE
 es_bloq_conta;PENDENTE
 st_credito_pessoal;PENDENTE
 st_pedidos_estoque;PENDENTE
-st_operacoes_por_parcela;PENDENTE
 st_ci;PENDENTE
+st_cartoes_novos;PENDENTE
 st_seguro_roubofurtoquebra;PENDENTE
 st_estoque_talao_graf;PENDENTE
-st_cartoes_novos;PENDENTE
-st_autenticacoes_pdv;PENDENTE
 es_cadastro_estabelecimentos;PENDENTE
+st_autenticacoes_pdv;PENDENTE
 st_log_app;PENDENTE
+st_sms_carga_avaliacao_app;PENDENTE
+st_movimentacao_mercadoria_06;PENDENTE
