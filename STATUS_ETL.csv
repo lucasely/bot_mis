@@ -7,7 +7,6 @@ st_bd;PENDENTE
 st_producao_merc_00;PENDENTE
 st_acao_af_base;PENDENTE
 st_ci;PAUSADO
-st_estoque_talao_graf;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
 st_movimentacao_mercadoria_07;PENDENTE
@@ -17,12 +16,13 @@ st_escola_virtual_metas;PENDENTE
 st_ke5z_compl_08;PENDENTE
 st_movimentacao_mercadoria_08;PENDENTE
 st_movimentacao_mercadoria_09;PENDENTE
-st_garantia;PAUSADO
 st_movimentacao_mercadoria_10;PENDENTE
 st_ke5z_compl_10;PENDENTE
+st_garantia;PAUSADO
 st_producao_merc_10;PAUSADO
-st_movimentacao_mercadoria_11;PENDENTE
 st_ke5z_compl_11;PENDENTE
+st_movimentacao_mercadoria_11;PENDENTE
 st_producao_merc_11;PAUSADO
-st_garantia;PENDENTE
 st_movimentacao_mercadoria_12;PENDENTE
+st_garantia;PENDENTE
+st_producao_merc_12;PAUSADO
