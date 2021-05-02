@@ -16,9 +16,9 @@ st_producao_merc_00;PENDENTE
 st_producao_merc_00;PENDENTE
 es_ecommerce_sessoes;PENDENTE
 es_conta_digital;PENDENTE
-st_conta_digital_transacoes;PENDENTE
 st_acao_af_base;PENDENTE
 st_bd_resumida;PENDENTE
+st_conta_digital_transacoes;PENDENTE
 st_operacoes_por_contrato_vd;PENDENTE
 es_pix_chaves;PENDENTE
 st_pix_conta;PENDENTE
@@ -26,7 +26,7 @@ st_pix_transacoes;PENDENTE
 st_ocorrencias_verdecob;PENDENTE
 st_tabloide;PENDENTE
 st_tabloide;PENDENTE
-st_mensageria;PENDENTE
+st_talao_estoque;PENDENTE
 st_pedidos_cancelados;PENDENTE
 es_bloq_fone;PENDENTE
 st_carteira_fornecedores;PENDENTE
@@ -41,15 +41,13 @@ st_aprov_contas;PENDENTE
 st_complementares_sf;PENDENTE
 st_mora_e_multa_filial;PENDENTE
 st_produtos_cob;PENDENTE
-st_estoque_fisico;PENDENTE
 st_acordos_pagos;PENDENTE
 st_dp_ferias;PENDENTE
 st_carga_verdecob;PENDENTE
-st_talao_estoque;PENDENTE
+st_mensageria;PENDENTE
 st_quero_premio;PENDENTE
 st_clientes_app;PENDENTE
 st_envio_sms_automatico;PENDENTE
-st_estoque_fisico;PENDENTE
 st_credito_pessoal;PENDENTE
 es_bloq_conta;PENDENTE
 st_adesao_parcelamento;PENDENTE
@@ -58,5 +56,5 @@ st_pedidos_estoque;PENDENTE
 st_dp_batidas_colab;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_producao_merc_02;PAUSADO
-st_operacoes_por_parcela;PENDENTE
 st_dp_afastados;PENDENTE
+st_operacoes_por_parcela;PENDENTE
