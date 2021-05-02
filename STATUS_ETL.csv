@@ -51,8 +51,13 @@ st_sms_carga_sc;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_ke5z_compl_07;PENDENTE
 st_movimentacao_mercadoria_08;PENDENTE
-st_escola_virtual_metas;PENDENTE
 st_ke5z_compl_08;PENDENTE
-st_ke5z_compl_09;PENDENTE
+st_escola_virtual_metas;PENDENTE
 st_realizado_escola_virtual;PENDENTE
+st_ke5z_compl_09;PENDENTE
 st_movimentacao_mercadoria_09;PENDENTE
+st_ke5z_compl_10;PENDENTE
+st_clientes_categoria;PENDENTE
+st_contatos_positivos;PENDENTE
+st_garantia;PENDENTE
+st_movimentacao_mercadoria_10;PENDENTE
