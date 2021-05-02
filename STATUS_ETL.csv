@@ -20,8 +20,8 @@ st_conta_digital_transacoes;PENDENTE
 st_tabloide;PENDENTE
 st_tabloide;PENDENTE
 st_envio_sms_automatico;PAUSADO
+st_mensageria;PENDENTE
 st_quero_premio;PENDENTE
-st_clientes_app;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_carteira_fornecedores;PENDENTE
 st_credito_sem_acrescimo;PENDENTE
@@ -38,7 +38,6 @@ st_acordos_pagos;PENDENTE
 st_dp_ferias;PENDENTE
 st_carga_verdecob;PENDENTE
 st_talao_estoque;PENDENTE
-st_mensageria;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_credito_pessoal;PENDENTE
 st_spp_mensal;PENDENTE
@@ -54,3 +53,9 @@ st_log_ep;PENDENTE
 st_ocorrencias_assessorias;PENDENTE
 st_movimentacao_mercadoria_06;PENDENTE
 st_sms_carga_avaliacao_app;PENDENTE
+st_pesquisa_satisfacao;PENDENTE
+st_ke5z_compl_07;PENDENTE
+st_sms_carga_sc;PENDENTE
+st_movimentacao_mercadoria_07;PENDENTE
+st_dp_quadro_orcado_real_lojas;PENDENTE
+st_mora_e_multa;PENDENTE
