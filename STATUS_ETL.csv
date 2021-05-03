@@ -12,7 +12,6 @@ st_producao_merc_02;PAUSADO
 st_estoque_talao_graf;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_escola_virtual_metas;PENDENTE
-st_movimentacao_mercadoria_11;CARREGANDO
 st_movimentacao_mercadoria_12;PENDENTE
-st_garantia;PENDENTE
-st_seguro_roubofurtoquebra;PENDENTE
+st_producao_merc_12;CARREGANDO
+st_producao_merc_12;LIBERADO
