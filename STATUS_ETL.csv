@@ -1,9 +1,9 @@
 TABELA;STATUS
+st_bd;PENDENTE
 st_mifa_dia;PENDENTE
 st_liquidacoes;PENDENTE
 st_mifa_vencido;PENDENTE
 st_dp_funcao;PENDENTE
-es_map_material;PENDENTE
 es_promo_rede;PENDENTE
 st_apropriacao_encargos;PENDENTE
 es_ecommerce_sessoes;PENDENTE
@@ -15,7 +15,6 @@ st_pagamentos_verdesys;PENDENTE
 st_ligacoes_gestor_loja;PENDENTE
 es_cadfunc;PENDENTE
 st_ligacoes_contact_center;PENDENTE
-st_bd;PENDENTE
 st_pix_conta;PENDENTE
 es_pix_chaves;PENDENTE
 st_operacoes_por_contrato_vd;PENDENTE
@@ -55,3 +54,17 @@ st_carteira_fornecedores;PENDENTE
 es_bloq_fone;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_estoque_padrao_loja;PENDENTE
+st_adesao_parcelamento;PENDENTE
+st_producao_merc_02;PENDENTE
+st_spp_mensal;PENDENTE
+st_producao_merc_02;PENDENTE
+st_operadores_fireman;PENDENTE
+st_usuarios_fireman;PENDENTE
+st_pedidos_estoque;PENDENTE
+st_dp_batidas_colab;PENDENTE
+st_pedidos_pendentes;PENDENTE
+st_credito_pessoal;PENDENTE
+es_bloq_conta;PENDENTE
+es_map_caracteristicas;PENDENTE
+es_map_preco;PENDENTE
+st_chamados_fireman;PENDENTE
