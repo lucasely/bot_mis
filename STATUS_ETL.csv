@@ -1,7 +1,7 @@
 TABELA;STATUS
-st_mifa_vencido;PENDENTE
-st_mifa_dia;PENDENTE
 st_bd;PENDENTE
+st_mifa_dia;PENDENTE
+st_mifa_vencido;PENDENTE
 st_acao_af_base;PENDENTE
 st_mensageria;PENDENTE
 st_envio_sms_automatico;PAUSADO
@@ -13,6 +13,5 @@ st_garantia;PENDENTE
 st_garantia;PENDENTE
 st_garantia;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
-st_movimentacao_mercadoria_19;PENDENTE
-st_producao_merc_19;CARREGANDO
-st_producao_merc_19;LIBERADO
+st_movimentacao_mercadoria_20;PENDENTE
+st_garantia;PENDENTE
