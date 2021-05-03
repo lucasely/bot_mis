@@ -7,10 +7,12 @@ st_acao_af_base;PENDENTE
 st_mensageria;PENDENTE
 st_complementares_sf;PENDENTE
 st_envio_sms_automatico;PAUSADO
-st_producao_merc_02;PAUSADO
 st_adesao_parcelamento;PENDENTE
+st_producao_merc_02;PAUSADO
 st_estoque_talao_graf;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_escola_virtual_metas;PENDENTE
-st_movimentacao_mercadoria_13;PENDENTE
 st_dp_saldo_he;PENDENTE
+st_movimentacao_mercadoria_13;PENDENTE
+st_producao_merc_13;LIBERADO
+st_producao_merc_13;CARREGANDO
