@@ -9,5 +9,5 @@ st_log_ep;PAUSADO
 dm_faturamento_varejo;PAUSADO
 st_garantia;PAUSADO
 st_movimentacao_mercadoria_17;PENDENTE
-st_garantia;PENDENTE
-st_seguro_roubofurtoquebra;PENDENTE
+st_producao_merc_17;LIBERADO
+st_producao_merc_17;CARREGANDO
