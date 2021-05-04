@@ -4,12 +4,12 @@ st_acao_af_base;PENDENTE
 st_pedidos_cancelados;PENDENTE
 st_mensageria;PENDENTE
 st_dp_batidas_colab;PENDENTE
-st_seguro_roubofurtoquebra;PAUSADO
 st_estoque_talao_graf;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
 st_log_ep;PAUSADO
 st_pesquisa_satisfacao;PENDENTE
 st_clientes_categoria;PENDENTE
 st_movimentacao_mercadoria_10;PENDENTE
-st_garantia;PENDENTE
 st_contatos_positivos;PENDENTE
 st_sms_nps;PENDENTE
+st_producao_merc_10;CARREGANDO
