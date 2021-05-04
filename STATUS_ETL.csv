@@ -1,6 +1,6 @@
 TABELA;STATUS
-st_acao_af_base;PENDENTE
 st_conta_digital_transacoes;PAUSADO
+st_acao_af_base;PENDENTE
 st_mensageria;PENDENTE
 st_dp_batidas_colab;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
@@ -8,6 +8,6 @@ st_estoque_talao_graf;PENDENTE
 st_log_ep;PAUSADO
 dm_faturamento_varejo;PAUSADO
 st_garantia;PAUSADO
-st_garantia;PENDENTE
-st_ke5z_compl_20;PENDENTE
 st_movimentacao_mercadoria_20;PENDENTE
+st_producao_merc_20;CARREGANDO
+st_producao_merc_20;LIBERADO
