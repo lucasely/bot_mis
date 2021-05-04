@@ -1,14 +1,12 @@
 TABELA;STATUS
-st_contas_credito_suspenso;PENDENTE
 st_acao_af_base;PENDENTE
 st_conta_digital_transacoes;PAUSADO
 st_pedidos_cancelados;PENDENTE
 st_mensageria;PENDENTE
-st_carga_verdecob;CARREGANDO
 st_dp_batidas_colab;PENDENTE
-st_seguro_roubofurtoquebra;PAUSADO
 st_estoque_talao_graf;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
 st_log_ep;PAUSADO
 st_pesquisa_satisfacao;PENDENTE
-st_movimentacao_mercadoria_08;PENDENTE
-st_escola_virtual_metas;PENDENTE
+st_movimentacao_mercadoria_09;PENDENTE
+st_realizado_escola_virtual;PENDENTE
