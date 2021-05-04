@@ -48,13 +48,13 @@ st_carteira_fornecedores;PENDENTE
 st_clientes_app;PENDENTE
 st_quero_premio;PENDENTE
 st_talao_estoque;PENDENTE
+es_map_preco;CARREGANDO
 st_pedidos_estoque;PENDENTE
-es_map_preco;PENDENTE
 st_spp_mensal;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_credito_pessoal;PENDENTE
 st_dp_batidas_colab;PENDENTE
 st_adesao_parcelamento;PENDENTE
 es_bloq_conta;PENDENTE
-st_operacoes_por_parcela;PENDENTE
 st_dp_afastados;PENDENTE
+st_operacoes_por_parcela;PENDENTE
