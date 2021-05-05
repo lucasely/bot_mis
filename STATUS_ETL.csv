@@ -3,13 +3,13 @@ st_conta_digital_transacoes;PAUSADO
 st_acao_af_base;PENDENTE
 st_mensageria;PENDENTE
 st_dp_batidas_colab;PENDENTE
-st_seguro_roubofurtoquebra;PAUSADO
 st_estoque_talao_graf;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
 st_log_ep;PAUSADO
 dm_faturamento_varejo;PAUSADO
 st_garantia;PAUSADO
 st_ke5z_compl_21;PENDENTE
 st_movimentacao_mercadoria_21;PENDENTE
-st_spp_exclusoes;PENDENTE
-st_producao_merc_21;LIBERADO
-st_producao_merc_21;CARREGANDO
+st_spp_exclusoes;PAUSADO
+st_movimentacao_mercadoria_22;PENDENTE
+st_ke5z_compl_22;PENDENTE
