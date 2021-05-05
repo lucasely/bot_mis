@@ -3,6 +3,5 @@ st_conta_digital_transacoes;PAUSADO
 st_envio_sms_automatico;PENDENTE
 st_acordos_incluidos;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
-st_movimentacao_mercadoria_19;PENDENTE
-st_producao_merc_19;LIBERADO
-st_producao_merc_19;CARREGANDO
+st_movimentacao_mercadoria_20;PENDENTE
+st_garantia;PENDENTE
