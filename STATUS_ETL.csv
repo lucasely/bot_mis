@@ -2,12 +2,12 @@ TABELA;STATUS
 st_conta_digital_transacoes;PAUSADO
 st_acordos_incluidos;PENDENTE
 st_envio_sms_automatico;PENDENTE
-st_estoque_talao_graf;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
+st_estoque_talao_graf;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
 st_contatos_positivos;PENDENTE
-st_movimentacao_mercadoria_10;PENDENTE
 st_clientes_categoria;PENDENTE
 st_sms_nps;PENDENTE
-st_producao_merc_10;LIBERADO
-st_producao_merc_10;CARREGANDO
+st_movimentacao_mercadoria_11;PENDENTE
+st_ke5z_compl_11;PENDENTE
+st_garantia;PENDENTE
