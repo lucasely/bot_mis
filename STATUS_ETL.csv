@@ -3,6 +3,6 @@ st_conta_digital_transacoes;PAUSADO
 st_envio_sms_automatico;PENDENTE
 st_acordos_incluidos;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
-st_ke5z_compl_17;PENDENTE
 st_movimentacao_mercadoria_17;PENDENTE
-st_garantia;PENDENTE
+st_producao_merc_17;LIBERADO
+st_producao_merc_17;CARREGANDO
