@@ -1,13 +1,13 @@
 TABELA;STATUS
-st_pagamentos_verdesys;PENDENTE
 st_contas_credito_suspenso;PENDENTE
-st_operacoes_por_contrato_vd;PENDENTE
+st_pagamentos_verdesys;PENDENTE
 st_conta_digital_transacoes;PENDENTE
 st_acao_af_base;PENDENTE
 st_pix_transacoes;PENDENTE
 es_conta_digital;PENDENTE
 es_pix_chaves;PENDENTE
 st_pix_conta;PENDENTE
+st_operacoes_por_contrato_vd;PENDENTE
 st_aprov_contas;PENDENTE
 st_mensageria;PENDENTE
 st_carga_verdecob;PENDENTE
@@ -22,6 +22,5 @@ st_seguro_roubofurtoquebra;PAUSADO
 st_sms_carga_avaliacao_app;PENDENTE
 st_mora_e_multa;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_sms_carga_sc;PENDENTE
 st_dp_quadro_orcado_real_lojas;PENDENTE
 st_movimentacao_mercadoria_07;PENDENTE
