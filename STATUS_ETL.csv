@@ -4,4 +4,5 @@ st_envio_sms_automatico;PENDENTE
 st_acordos_incluidos;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
 st_movimentacao_mercadoria_20;PENDENTE
-st_garantia;PENDENTE
+st_producao_merc_20;CARREGANDO
+st_producao_merc_20;LIBERADO
