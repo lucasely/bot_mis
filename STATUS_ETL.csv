@@ -1,7 +1,8 @@
 TABELA;STATUS
 st_acordos_incluidos;PENDENTE
-st_seguro_roubofurtoquebra;PAUSADO
 st_estoque_talao_graf;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
 st_log_ep;PAUSADO
-st_movimentacao_mercadoria_13;PENDENTE
-st_dp_saldo_he;PENDENTE
+st_garantia;PENDENTE
+st_movimentacao_mercadoria_14;PENDENTE
+st_seguro_roubofurtoquebra;PENDENTE
