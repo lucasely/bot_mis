@@ -1,13 +1,11 @@
 TABELA;STATUS
-st_acordos_incluidos;PENDENTE
-st_seguro_roubofurtoquebra;PAUSADO
+st_acordos_incluidos;LIBERADO
 st_estoque_talao_graf;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
 st_log_ep;PAUSADO
 st_pesquisa_satisfacao;PENDENTE
-st_contatos_positivos;PENDENTE
 st_garantia;PAUSADO
-st_clientes_categoria;PENDENTE
-st_sms_nps;PENDENTE
 st_garantia;PENDENTE
 st_movimentacao_mercadoria_12;PENDENTE
-st_garantia;PENDENTE
+st_producao_merc_12;CARREGANDO
+st_producao_merc_12;LIBERADO
