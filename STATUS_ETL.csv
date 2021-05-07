@@ -9,6 +9,5 @@ st_garantia;PAUSADO
 st_clientes_categoria;PENDENTE
 st_sms_nps;PENDENTE
 st_garantia;PENDENTE
-st_movimentacao_mercadoria_11;PENDENTE
-st_producao_merc_11;LIBERADO
-st_producao_merc_11;CARREGANDO
+st_movimentacao_mercadoria_12;PENDENTE
+st_garantia;PENDENTE
