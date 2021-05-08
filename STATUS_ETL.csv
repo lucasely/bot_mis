@@ -1,8 +1,8 @@
 TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_acordos_incluidos;PENDENTE
-st_seguro_roubofurtoquebra;PAUSADO
 st_estoque_talao_graf;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
 st_sms_carga_avaliacao_app;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
 st_seguro_roubofurtoquebra;PAUSADO
@@ -15,5 +15,8 @@ st_seguro_roubofurtoquebra;PAUSADO
 st_seguro_roubofurtoquebra;PAUSADO
 st_movimentacao_mercadoria_19;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
-st_producao_merc_19;LIBERADO
-st_producao_merc_19;CARREGANDO
+st_ke5z_compl_20;PENDENTE
+st_movimentacao_mercadoria_20;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
+st_producao_merc_20;CARREGANDO
+st_producao_merc_20;LIBERADO
