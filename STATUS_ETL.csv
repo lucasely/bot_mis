@@ -28,8 +28,10 @@ st_pedidos_pendentes;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_credito_pessoal;PENDENTE
 st_operacoes_por_parcela;PENDENTE
-st_ci;PENDENTE
-st_seguro_roubofurtoquebra;PAUSADO
+st_ci;CARREGANDO
 st_cartoes_novos;PENDENTE
 st_estoque_talao_graf;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
 st_autenticacoes_pdv;PENDENTE
+st_sms_carga_avaliacao_app;PENDENTE
+st_movimentacao_mercadoria_06;PENDENTE
