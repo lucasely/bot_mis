@@ -2,10 +2,10 @@ TABELA;STATUS
 st_acao_af_base;PENDENTE
 st_envio_sms_automatico;PAUSADO
 st_seguro_roubofurtoquebra;PAUSADO
-st_pesquisa_satisfacao;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
 st_seguro_roubofurtoquebra;PAUSADO
 st_seguro_roubofurtoquebra;PAUSADO
-st_garantia;PENDENTE
-st_movimentacao_mercadoria_13;PENDENTE
 st_dp_saldo_he;PENDENTE
+st_seguro_roubofurtoquebra;PAUSADO
+st_movimentacao_mercadoria_14;PENDENTE
+st_seguro_roubofurtoquebra;PENDENTE
