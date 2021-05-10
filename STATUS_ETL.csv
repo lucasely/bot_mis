@@ -11,7 +11,8 @@ st_garantia;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
 st_garantia;PENDENTE
 st_seguro_roubofurtoquebra;PAUSADO
+st_garantia;PAUSADO
 st_seguro_roubofurtoquebra;PAUSADO
 st_movimentacao_mercadoria_18;PENDENTE
-st_ke5z_compl_18;PENDENTE
-st_garantia;PENDENTE
+st_producao_merc_18;CARREGANDO
+st_producao_merc_18;LIBERADO
