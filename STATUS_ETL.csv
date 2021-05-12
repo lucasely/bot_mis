@@ -1,8 +1,7 @@
 TABELA;STATUS
 st_acao_af_base;PENDENTE
-st_acordos_incluidos;PENDENTE
 st_dp_demitidos;PAUSADO
 st_pesquisa_satisfacao;PENDENTE
 st_movimentacao_mercadoria_17;PENDENTE
-st_garantia;PENDENTE
-st_seguro_roubofurtoquebra;PENDENTE
+st_producao_merc_17;CARREGANDO
+st_producao_merc_17;LIBERADO
