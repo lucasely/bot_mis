@@ -3,9 +3,5 @@ st_acao_af_base;PENDENTE
 st_acordos_incluidos;PENDENTE
 st_dp_demitidos;PAUSADO
 st_pesquisa_satisfacao;PENDENTE
-st_contatos_positivos;PENDENTE
-st_clientes_categoria;PENDENTE
-st_sms_nps;PENDENTE
 st_movimentacao_mercadoria_12;PENDENTE
-st_garantia;PENDENTE
-st_seguro_roubofurtoquebra;PENDENTE
+st_producao_merc_12;CARREGANDO
