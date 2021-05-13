@@ -43,11 +43,9 @@ st_estoque_fisico;PENDENTE
 es_bloq_conta;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_spp_mensal;PENDENTE
-es_map_caracteristicas;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_dp_batidas_colab;PENDENTE
 st_dp_demitidos;PENDENTE
-st_producao_merc_02;CARREGANDO
 st_pedidos_estoque;PENDENTE
 st_credito_pessoal;PENDENTE
 st_dp_afastados;PENDENTE
