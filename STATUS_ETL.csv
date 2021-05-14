@@ -1,5 +1,5 @@
 TABELA;STATUS
 st_garantia;PAUSADO
 st_movimentacao_mercadoria_20;PENDENTE
-st_garantia;PENDENTE
-st_seguro_roubofurtoquebra;PENDENTE
+st_producao_merc_20;CARREGANDO
+st_producao_merc_20;LIBERADO
