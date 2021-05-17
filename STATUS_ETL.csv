@@ -5,6 +5,7 @@ st_acao_af_base;PENDENTE
 st_mensageria;PENDENTE
 st_carteira_fornecedores;PENDENTE
 st_pedidos_cancelados;PENDENTE
+st_carga_verdecob;CARREGANDO
 st_envio_sms_automatico;PAUSADO
 st_adesao_parcelamento;PENDENTE
 st_estoque_talao_graf;PENDENTE
