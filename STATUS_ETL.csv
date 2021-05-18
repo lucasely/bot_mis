@@ -18,7 +18,6 @@ st_bd_resumida;PENDENTE
 st_conta_digital_transacoes;PENDENTE
 es_conta_digital;PENDENTE
 es_pix_chaves;PENDENTE
-st_estoque_fisico;PENDENTE
 st_seguro_residencial;PENDENTE
 st_mensageria;PENDENTE
 st_imagens_servidor;PENDENTE
@@ -36,6 +35,7 @@ st_pedidos_cancelados;PENDENTE
 st_talao_estoque;PENDENTE
 st_credito_desconto;PENDENTE
 st_estoque_fisico;PENDENTE
+st_estoque_fisico;PENDENTE
 st_credito_sem_acrescimo;PENDENTE
 st_clientes_app;PENDENTE
 st_envio_sms_automatico;PENDENTE
@@ -43,15 +43,11 @@ st_estoque_fisico;PENDENTE
 st_produtos_cob;PENDENTE
 st_pedidos_pendentes;PENDENTE
 st_credito_pessoal;PENDENTE
-es_map_preco;PENDENTE
-es_map_caracteristicas;PENDENTE
-st_producao_merc_02;CARREGANDO
 st_dp_batidas_colab;PENDENTE
 st_pedidos_estoque;PENDENTE
 es_bloq_conta;PENDENTE
 st_dp_demitidos;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_spp_mensal;PENDENTE
-st_producao_merc_02;LIBERADO
 st_dp_afastados;PENDENTE
 st_operacoes_por_parcela;PENDENTE
