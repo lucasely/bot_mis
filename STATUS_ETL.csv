@@ -1,10 +1,14 @@
 TABELA;STATUS
-st_pix_transacoes;PAUSADO
 st_acao_af_base;PENDENTE
 st_conta_digital_transacoes;PAUSADO
+st_pix_transacoes;PAUSADO
 st_pedidos_cancelados;PENDENTE
 st_estoque_talao_graf;PENDENTE
 es_operadores_geral;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
 st_pesquisa_satisfacao;PENDENTE
-st_movimentacao_mercadoria_09;PENDENTE
+st_garantia;PENDENTE
+st_contatos_positivos;PENDENTE
+st_movimentacao_mercadoria_10;PENDENTE
+st_clientes_categoria;PENDENTE
+st_sms_nps;PENDENTE
