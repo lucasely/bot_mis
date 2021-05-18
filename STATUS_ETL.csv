@@ -1,4 +1,5 @@
 TABELA;STATUS
+st_apropriacao_encargos;PENDENTE
 es_ecommerce_sessoes;PENDENTE
 st_pagamentos_verdesys;PENDENTE
 st_ligacoes_contact_center;PENDENTE
@@ -9,7 +10,7 @@ st_dp_funcao;PENDENTE
 st_dp_secao;PENDENTE
 es_cadfunc;PENDENTE
 es_promo_rede;PENDENTE
-st_apropriacao_encargos;PENDENTE
+st_ocorrencias_verdecob;PENDENTE
 st_operacoes_por_contrato_vd;PENDENTE
 st_pix_conta;PENDENTE
 st_pix_transacoes;PENDENTE
@@ -18,9 +19,8 @@ st_bd_resumida;PENDENTE
 st_conta_digital_transacoes;PENDENTE
 es_conta_digital;PENDENTE
 es_pix_chaves;PENDENTE
-st_ocorrencias_verdecob;PENDENTE
-st_tabloide;PENDENTE
-st_estoque_fisico;PENDENTE
+st_seguro_residencial;PENDENTE
+st_caracteristicas_concentrador;PENDENTE
 st_mensageria;PENDENTE
 st_imagens_servidor;PENDENTE
 st_carga_verdecob;PENDENTE
@@ -44,6 +44,6 @@ st_estoque_fisico;PENDENTE
 st_credito_sem_acrescimo;PENDENTE
 st_clientes_app;PENDENTE
 st_envio_sms_automatico;PENDENTE
-st_caracteristicas_concentrador;PENDENTE
+st_estoque_fisico;PENDENTE
 st_produtos_cob;PENDENTE
-st_seguro_residencial;PENDENTE
+st_estoque_padrao_loja;PENDENTE
