@@ -1,6 +1,5 @@
 TABELA;STATUS
 st_pix_transacoes;PAUSADO
-st_pedidos_cancelados;PENDENTE
 es_operadores_geral;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
 st_garantia;PENDENTE
@@ -9,9 +8,6 @@ st_garantia;PENDENTE
 st_garantia;PENDENTE
 es_operadores_geral;PAUSADO
 es_operadores_geral;PAUSADO
-st_movimentacao_mercadoria_16;PENDENTE
 es_operadores_geral;PAUSADO
 es_operadores_geral;PAUSADO
-st_ke5z_compl_17;PENDENTE
 st_movimentacao_mercadoria_17;PENDENTE
-st_garantia;PENDENTE
