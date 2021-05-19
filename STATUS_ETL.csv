@@ -3,13 +3,13 @@ st_pix_transacoes;PAUSADO
 st_pedidos_cancelados;PENDENTE
 es_operadores_geral;PAUSADO
 st_movimentacao_mercadoria_06;PENDENTE
-st_pesquisa_satisfacao;PENDENTE
 st_garantia;PENDENTE
 st_garantia;PENDENTE
 st_garantia;PENDENTE
 st_garantia;PENDENTE
 es_operadores_geral;PAUSADO
 es_operadores_geral;PAUSADO
-st_ke5z_compl_16;PENDENTE
 st_movimentacao_mercadoria_16;PENDENTE
-st_garantia;PENDENTE
+st_producao_merc_16;CARREGANDO
+st_producao_merc_16;LIBERADO
+es_operadores_geral;PAUSADO
