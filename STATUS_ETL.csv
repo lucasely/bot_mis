@@ -17,7 +17,6 @@ st_complementares_sf;PENDENTE
 st_carga_verdecob;PENDENTE
 st_produtos_cob;PENDENTE
 st_seguro_residencial;PENDENTE
-st_envio_sms_automatico;PENDENTE
 st_garantia;PENDENTE
 st_aprov_contas;PENDENTE
 st_credito_desconto;PENDENTE
@@ -37,3 +36,4 @@ st_cartoes_novos;PENDENTE
 st_estoque_talao_graf;PENDENTE
 es_operadores_geral;PAUSADO
 st_autenticacoes_pdv;PENDENTE
+st_ocorrencias_assessorias;CARREGANDO
