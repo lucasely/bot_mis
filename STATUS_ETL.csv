@@ -25,7 +25,6 @@ st_estoque_fisico;PENDENTE
 st_envio_sms_automatico;PENDENTE
 st_clientes_app;PENDENTE
 st_quero_premio;PENDENTE
-st_talao_estoque;PENDENTE
 st_imagens_servidor;PENDENTE
 st_mensageria;PENDENTE
 st_dp_ferias;PENDENTE
@@ -43,14 +42,11 @@ dw_score_telefone_cobranca;PENDENTE
 st_estoque_padrao_loja;PENDENTE
 st_adesao_parcelamento;PENDENTE
 st_dp_demitidos;PENDENTE
-es_map_caracteristicas;PENDENTE
 st_spp_mensal;PENDENTE
 st_pedidos_pendentes;PENDENTE
 es_bloq_conta;PENDENTE
 st_credito_pessoal;PENDENTE
 st_pedidos_estoque;PENDENTE
 st_dp_batidas_colab;PENDENTE
-st_producao_merc_02;LIBERADO
-st_producao_merc_02;CARREGANDO
-st_operacoes_por_parcela;PENDENTE
 st_dp_afastados;PENDENTE
+st_operacoes_por_parcela;PENDENTE
